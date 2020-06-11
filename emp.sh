@@ -1,5 +1,6 @@
 #!/bin/bash
 
 a=2
-echo $a
+b=3
+echso $a
 echo "Hellow world"
